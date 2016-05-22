@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463925137 source:c:\users\administrator\desktop\algorithm_hw\dynamic_table\dynamictbl.cpp
+	<cstdlib>
+	<stdio.h>
+	<iostream>
+
