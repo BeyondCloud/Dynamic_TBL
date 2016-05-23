@@ -4,3 +4,14 @@
 	<stdio.h>
 	<iostream>
 
+1463984791 source:c:\users\a1989\desktop\dynamic_tbl\main.cpp
+	<iostream>
+	"DynamicTBL.h"
+
+1463983971 c:\users\a1989\desktop\dynamic_tbl\dynamictbl.h
+
+1463984746 source:c:\users\a1989\desktop\dynamic_tbl\dynamictbl.cpp
+	"DynamicTBL.h"
+	<string.h>
+	<iostream>
+
